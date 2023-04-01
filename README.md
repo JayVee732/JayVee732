@@ -8,7 +8,7 @@ My current programming skill set includes .NET Framework (C# and ASP .NET), Dyna
 
 My other hobbies include video games, playing and listening to music and going for runs. I have performed the violin in many European countries such as France and The Netherlands and have also led an orchestra in The National Concert Hall in Dublin, Ireland. My other instruments of choice include the guitar and bass guitar.
 
-Feel free to contact me by email at <other@jamiehiggins.dev.
+Feel free to contact me by email at <other@jamiehiggins.dev>.
 
 <!--
 **JayVee732/JayVee732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
